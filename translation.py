@@ -3,8 +3,8 @@ from config import Config
 
 class Translation(object):
   START_TXT = """<b>Hai {}!!</b>
-<i>I'm Simple Auto file Forward Bot
-This Bot forward all files to One Public channel to Your Personal channel
+<i>I'm Simple Auto file Forward Bot❤️
+This Bot forward all files to One Public channel to Your Personal channel🔥
 More details /help</i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>Follow These Steps!!</b>
@@ -19,11 +19,10 @@ More details /help</i>"""
 * /help - <b>more help</b>
 * /run - <b>start forward</b>
 * /about - <b>About Me</b>"""
-  ABOUT_TXT = """<b><u>My Info</b></u>
+  ABOUT_TXT = """Hy Man🐙
 
-<b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>Dark Angel</code>
-<b>Language :</b> <code>Python3</code>
-<b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
-<b>Server :</b> <code>Heroku</code>
-<b>Build :</b><code>V0.1</code>"""
+<b>Name 🔰 :Auto Forward Bot
+<b>Credit 🐙 :@Perfect_Vazha 🔥
+<b>Language 📝 :</b> <code>Python3</code>
+<b>Lybrary 🌀 :</b> <code>Pyrogram v1.2.9</code>"""
+
